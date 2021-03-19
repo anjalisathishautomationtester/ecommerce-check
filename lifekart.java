@@ -17,6 +17,7 @@ public class lifekart {
 		driver.findElement(By.xpath("//input[@class='plus']")).click();
 		driver.findElement(By.xpath("//button[@type='submit']")).click();
 		driver.findElement(By.xpath("//button[@value='19572']")).click();
+		//comment here
 	    driver.findElement(By.xpath("//img[@id='new_logo_1']")).click();
 		
 		
